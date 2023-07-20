@@ -1,0 +1,35 @@
+## HTML 1.0
+The original version of HTML was HTML 1.0. It had very limited features which greatly limited what you could do in designing your web pages.
+
+## HTML 2.0
+HTML 2.0 then arrived and included all the features of HTML 1.0 plus several new features for web page design. Until January, 1997, HTML 2.0 was the standard in web page design.
+
+## HTML 3.0
+HTML 2.0 served its purpose very well, but many people designing web pages (called HTML authors or webmasters) wanted more control over their web pages and more ways to mark up their text and enhance the appearance of their websites. Netscape, the leading browser at that time, introduced new tags and attributes called the Netscape Extension Tags. Other browsers tried to duplicate them but Netscape did not fully specify their new tags and so these extension tags did not work in most other browsers. It led to considerable confusion and problems when HTML authors used these tags and attributes and then saw that they didn't work as expected in other browsers.
+        At about that time, an HTML working group, led by Dave Raggett, introduced the HTML 3.0 draft which included many new and useful enhancements to HTML. However, most browsers only implemented a few elements from this draft. The phrase "HTML 3.0 enhanced" quickly became popular on the web but it more often than not referred to documents containing browser specific tags (discussed below in "The Netscape Problem" section), instead of referring to documents adhering to the HTML 3.0 draft. This was one of the reasons why the draft was abandoned. HTML 3.0 is now an expired draft. Another reason why HTML 3.0 did not make it was because it was so "big". Future versions were now to be introduced in a more "modular" way so that browsers can implement them modular by modular or bit by bit.
+
+## HTML 3.2 (WILBUR)
+As more browser-specific tags were introduced, it became obvious that a new standard was needed. For this reason, the Word Wide Web Consortium (W3C), founded in 1994 to develop common standards for the evolution of the World Wide Web, drafted the WILBUR standard, which later became known as HTML 3.2. HTML 3.2 captures the recommended practice as of early 1996 and became the official standard in January, 1997. Most, if not all, popular browsers in use today fully support HTML 3.2.
+
+## HTML 4.0 (COUGAR)
+In the early days, HTML 4.0 was code-named COUGAR. This version introduces new functionality, most of which comes from the expired HTML 3.0 draft. This version became a recommendation in December, 1997 and a standard as of April, 1998. Explorer has done a very good job in implementing the many features of HTML 4.0. Unfortunately, Netscape has not kept pace. The latest version of Netscape Communicator still does not recognize the many tags and attributes introduced with HTML 4.0. This means that a web page that involves HTML 4.0 specific tags will look great in Explorer but can look disastrous in Netscape.
+
+## XHTML
+You would think that the next major version after HTML 4.0 would be HTML 5.0 and with it would come a bunch of new tags that would do all sorts of wonderful things. That would be a good guess - but it would also be a wrong guess. The next version of HTML after HTML 4 is XHTML.
+
+XHTML stands for EXtensible HyperText Markup Language.
+
+      EXtensible
+      Hyper
+      Text
+      Markup
+      Language
+
+XHTML is not bringing with it a lot of new tags. The purpose of XHTML is to address the new browser technologies that is sweeping the world. Today web pages are being viewed in browsers through cell/mobile phones, cars, televisions, plus a host of hand-held wireless devices and communicators. Alternate ways to access the internet are continually being introduced. In many cases, these devices will not have the computing power of a desktop or notebook computer and so will not be able to accommodate poor or sloppy coding practices. XHTML is designed to address these technologies. XHTML also begins to address the need for those with disabilities (such as the blind and visually impaired) to access the internet. Thus web pages written in XHTML will allow them to be viewed on a wide range of browsers and internet platforms.
+
+ 
+
+XHTML is the result of the hard working World Wide Web Consortium (the W3C) to bring some sort of standard to provide rich high quality web pages through these varied devices. XHTML became an official W3C recommendation in January, 2000. XHTML is now a web standard and is the next generation of HTML.
+
+## HTML 5
+HTML 5 (usually written HTML5) is the new web standard. It follows HTML 4 (which came out way back in 1997) and XHTML. Since the introduction of HTML4, a lot has happened with the web and something needed to be done to address all the new technologies and latest multimedia. HTML5 is the result of cooperation that began in 2006 between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG). While HTML5 is still evolving (still under development), the latest browsers do support many of the new features and elements in this version. The basic aim of HTML5 is to provide two things - (1) to improve the language and (2) to support the latest multimedia. In order to accomplish this, some ground rules were established by the W3C and WHATWG. Among them were to reduce the need for external plug-ins (such as Flash plug-ins), better handling of errors, and more markup elements (tags) to replace scripting. HTML5 should also be device independent (that is, understood by computers and the many devices in existence today) while also keeping it easily readable by us humans.
